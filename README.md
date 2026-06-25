@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Karen Wu👋
 
-<!--
-**karenlywu/karenlywu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst in transition, bringing 5+ years of analytical experience from technical 
+product management roles into dedicated data work. Currently completing an MS in Data 
+Science (expected September 2026) at Eastern University, with a BS in Computer Science 
+from UC San Diego.
 
-Here are some ideas to get you started:
+I focus on projects where I can dig into a question, catch what might be misleading in 
+the first-pass answer, and document the reasoning clearly enough that someone else can 
+trust the conclusion, not just the chart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Languages & Query:** Python · R · SQL · JavaScript · Java  
+**Analysis & Visualization:** Tableau · Power BI · Pandas · NumPy · SciPy  
+**Data Platforms:** Snowflake · Databricks · SQLite  
+**Tools:** Jupyter · GitHub · Postman · Salesforce  
+**AI Tools:** Claude · ChatGPT · GitHub Copilot · Cursor
+
+## 📊 Featured Projects
+
+**[California County Spending Efficiency Dashboard](https://github.com/karenlywu/ca-county-spending-analysis)**  
+Tableau dashboard analyzing per-capita government spending across all 57 California 
+counties, with population-tier normalization to correct for small-county skew.
+
+## 🔗 Find Me
+
+[Tableau Public](https://public.tableau.com/app/profile/karen.wu6142/vizzes) · [LinkedIn](https://www.linkedin.com/in/karenlywu/)

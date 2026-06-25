@@ -19,6 +19,10 @@ trust the conclusion, not just the chart.
 
 ## 📊 Featured Projects
 
+**[California County Fiscal Trend Reliability Analysis](https://github.com/karenlywu/california_county_fiscal_trend_reliability_analysis)**  
+SQL-driven analysis of 21 years of county financial data, distinguishing genuine fiscal 
+trends from statistical noise using window functions and a custom reliability ratio.
+
 **[California County Spending Efficiency Dashboard](https://github.com/karenlywu/ca-county-spending-analysis)**  
 Tableau dashboard analyzing per-capita government spending across all 57 California 
 counties, with population-tier normalization to correct for small-county skew.

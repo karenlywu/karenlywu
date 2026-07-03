@@ -21,7 +21,7 @@ trust the conclusion, not just the chart.
 
 **[E-Commerce Customer Satisfaction Analytics](https://github.com/karenlywu/olist-power-bi-stats-analysis)**<br>
 *Power BI Dashboard + Python Statistical Analysis*<br>
-Built an end-to-end e-commerce analytics solution in Power BI and Python, using Power Query, DAX
+Built an end-to-end e-commerce analysis in Power BI and Python, using Power Query, DAX
 and statistical analysis to identify the key drivers of customer satisfaction.
 
 **[California County Fiscal Trend Reliability Analysis](https://github.com/karenlywu/california_county_fiscal_trend_reliability_analysis)**<br>

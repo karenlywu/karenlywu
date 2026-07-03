@@ -21,16 +21,19 @@ trust the conclusion, not just the chart.
 
 **[E-Commerce Customer Satisfaction Analytics](https://github.com/karenlywu/olist-power-bi-stats-analysis)**  
 *Power BI Dashboard + Python Statistical Analysis*
+
 Built an end-to-end e-commerce analytics solution in Power BI and Python, using Power Query, DAX
 and statistical analysis to identify the key drivers of customer satisfaction.
 
 **[California County Fiscal Trend Reliability Analysis](https://github.com/karenlywu/california_county_fiscal_trend_reliability_analysis)**  
 *SQL Data Pipeline with Tableau Dashboard*
+
 SQL-driven analysis of 21 years of county financial data, distinguishing genuine fiscal 
 trends from statistical noise using window functions and a custom reliability ratio.
 
 **[California County Spending Efficiency Dashboard](https://github.com/karenlywu/ca-county-spending-analysis)**
 *Tableau Dashboard + Python*
+
 Tableau dashboard analyzing per-capita government spending across all 57 California 
 counties, with population-tier normalization to correct for small-county skew.
 

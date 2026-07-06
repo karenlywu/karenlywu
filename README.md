@@ -19,7 +19,7 @@ trust the conclusion, not just the chart.
 
 ## 📊 Featured Projects
 
-**[E-Commerce Customer Satisfaction Analytics](https://github.com/karenlywu/olist-power-bi-stats-analysis)**<br>
+**[E-Commerce Customer Satisfaction Analysis](https://github.com/karenlywu/olist-power-bi-stats-analysis)**<br>
 *Power BI Dashboard + Python Statistical Analysis*<br>
 Built an end-to-end e-commerce analysis in Power BI and Python, using Power Query, DAX
 and statistical analysis to identify the key drivers of customer satisfaction.

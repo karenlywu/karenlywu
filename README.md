@@ -1,13 +1,8 @@
 # Hi, I'm Karen Wu👋
 
-Data analyst in transition, bringing 5+ years of analytical experience from technical 
-product management roles into dedicated data work. Currently completing an MS in Data 
-Science (expected September 2026) at Eastern University, with a BS in Computer Science 
-from UC San Diego.
+Technical professional with 5+ years of experience leading cross-functional initiatives, driving product strategy and partnering with executive stakeholders, now expanding into analytics and business intelligence. Currently completing an M.S. in Data Science (expected September 2026) at Eastern University, with a B.S. in Computer Science from UC San Diego.
 
-I focus on projects where I can dig into a question, catch what might be misleading in 
-the first-pass answer, and document the reasoning clearly enough that someone else can 
-trust the conclusion, not just the chart.
+I enjoy turning complex business questions into data-driven insights through tools like SQL, Python, Tableau and Power BI. My approach goes beyond building dashboards, I focus on understanding the underlying problem, validating assumptions, uncovering the key drivers behind the data and communicating findings clearly enough to support confident business decisions.
 
 ## 🔧 Tech Stack
 
